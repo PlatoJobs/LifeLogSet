@@ -41,7 +41,7 @@ public static void main(String[]args){}//java
      
 Thank `You` . Please `Call` Me `Coder`
 
-```
+```java
 public static void main(String[]args){} //Java
 ```
 ```Java
