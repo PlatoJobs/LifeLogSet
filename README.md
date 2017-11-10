@@ -50,3 +50,7 @@ public static void main(String[]args){} //Java
 ```Objective-c
 NSString*str=@"shihi";
 ```
+|语言|效果|
+|yi|yi|
+|二|二|
+
