@@ -60,3 +60,8 @@ NSString*str=@"shihi";
 >>> 二叉树
 >>>> 平衡二叉树
 >>>>> 满二叉树
+
+| 名字 | 描述 |
+| ------ | --- |
+| Help      | ~~dispaly~~ help window.|
+| Close     | _Closes_ a window     |
