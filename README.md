@@ -48,12 +48,5 @@ public static void main(String[]args){} //Java
 public static void main(String[]args){} //Java
 ```
 ```Objective-c
--(UIView*)whiteView{
-    if (!_whiteView) {
-        _whiteView=[[UIView alloc]initWithFrame:CGRectMake(0, SCREEN_HEIGHT-70-49, SCREEN_WIDTH, 70)];
-        _whiteView.backgroundColor=[UIColor lightGrayColor];
-    }
-    return _whiteView;
-}
 NSString*str=@"shihi";
 ```
