@@ -23,10 +23,12 @@ This is an H1
 -------------
 ···java
 public static void main(String[]args){}//java
+单行文本
+----------
 
-    Hello,大家好，我是果冻虾仁。
-    
-    
+    Hello,大家好，我是果冻虾仁。
+多行文本
+=========    
      *Hello,大家好，我是果冻虾仁
  
      *Hello,大家好，我是果冻虾仁。
